@@ -53,14 +53,14 @@ Main SQL tasks include:
 
 ### Repository Structure  
 
-### 1. `/SQL`
+### [1_SQL/](./1_SQL)
 
 Contains all **database-related resources** used for analytical exploration and integration.
 
-- **`/dump/`** → SQL **database dump** with all tables, ready to restore in MySQL or SQL Server 
-- **`01_sql_analysis.sql`** → Main SQL script with **all analytical queries** 
-- **`dm_cardiologia_documentation.pdf`** → Full **database documentation**, including:  
+- [**Dump.sql**](./1_SQL/Dump.sql) → SQL **database dump** with all tables, ready to restore in MySQL or SQL Server 
+- [**Queries.sql**](./1_SQL/Queries.sql) → Main SQL script with **all analytical queries** 
+- [**Data Documentation.pdf**](./1_SQL/Data%20Documentation.pdf) → Full **database documentation**, including:  
   - Entity–Relationship (ER) diagram  
   - Table definitions and relationships  
   - Data dictionary and integrity notes  
-- **`executive_summary.pdf`** → Short **executive report** summarizing SQL insights and conclusions
+- [**Executive Summary.pdf**](./1_SQL/Executive%20Summary.pdf) → Short **executive report** summarizing SQL insights and conclusions
