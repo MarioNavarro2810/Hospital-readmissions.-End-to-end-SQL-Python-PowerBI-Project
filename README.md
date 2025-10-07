@@ -64,3 +64,45 @@ Contains all **database-related resources** used for analytical exploration and 
   - Table definitions and relationships  
   - Data dictionary and integrity notes  
 - [**Executive Summary.pdf**](./1_SQL/Executive%20Summary.pdf) → Short **executive report** summarizing SQL insights and conclusions
+
+
+### 2_Python/
+
+Contains all **Python notebooks and scripts** used for data processing, statistical testing, risk modeling, and final production deployment.  
+This layer connects the **SQL analytical base** with the **Power BI visualization layer**, acting as the core of the analytical pipeline.
+
+---
+
+#### [01_Data/](./2_Python/01_Data)
+Stores **temporary or intermediate files** generated during notebook execution (e.g., cached `.pickle` dataframes).  
+This folder is automatically created when running the notebooks and is not tracked in Git.  
+
+#### [02_Notebooks/](./2_Python/02_Notebooks)
+Contains all **Jupyter notebooks** used throughout the analytical and modeling workflow:
+
+- [**01_Data Loading and Integration.ipynb**](./2_Python/02_Notebooks/01_Data%20Loading%20and%20Integration.ipynb) →
+    Loads hospital data directly from       SQL, merges tables, and integrates them into a single analytical dataset.  
+  
+
+- [**02_Data Quality and Exploratory Data Analysis.ipynb**](./2_Python/02_Notebooks/02_Data%20Quality%20and%20Exploratory%20Data%20Analysis.ipynb)  
+  Performs **data quality checks** (missing values, inconsistencies) and **exploratory data analysis (EDA)**.  
+  Produces descriptive statistics, categorical distributions, and outlier detection.  
+  
+
+- [**03_Minicube and Risk Scorecard.ipynb**](./2_Python/02_Notebooks/03_Minicube%20and%20Risk%20Scorecard.ipynb)  
+  Applies **statistical hypothesis testing** (Chi-square and t-Student) to identify key risk factors.  
+  Builds a **minicube** for analysis and develops a **custom risk scorecard** using rule-based scoring logic.
+
+- [**04_Production.py**](./2_Python/02_Notebooks/04_Production.py)  
+  Final **production-ready script** that automates the entire process:  
+  - Connects to the SQL database  
+  - Cleans and integrates data  
+  - Calculates the readmission **risk score** for each patient  
+  - Outputs the final dataset (`risk_scored_patients.csv`)
+
+#### [Python_Documentation.pdf](./2_Python/Python_Documentation.pdf)
+Comprehensive **PDF documentation** covering the full Python stage of the project, including:
+  - Detailed explanations of each notebook and its purpose  
+  - Execution workflow and data flow across the pipeline  
+  
+
