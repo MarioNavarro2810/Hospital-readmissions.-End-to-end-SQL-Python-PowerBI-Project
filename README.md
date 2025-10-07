@@ -1,11 +1,11 @@
-# Hospital-readmissions.
-# End-to-end SQL+Python+PowerBI Project
+## Hospital-readmissions
+## End-to-end SQL+Python+PowerBI Project
 
 **Objective:**  
 This project aims to **predict hospital readmission risk** by building an **end-to-end data pipeline** that connects **SQL data extraction**, **Python preprocessing and modeling**, and **Power BI visualization**.  
 The final product supports **clinical decision-making**, helping hospitals **reduce readmissions** and **optimize resource allocation**.
 
-## Project Overview  
+### Project Overview  
 Hospital readmissions are a critical indicator of care quality and financial efficiency.  
 By analyzing patient data, we can detect **risk patterns** and identify which patients are **most likely to be readmitted** after discharge.
 
@@ -39,7 +39,7 @@ Main SQL tasks include:
    - Visual outputs include:
      ........
 
-## Technologies Used  
+### Technologies Used  
 
 | Layer | Tools / Libraries |
 |-------|-------------------|
@@ -51,9 +51,9 @@ Main SQL tasks include:
 | Version Control | Git & GitHub |
 
 
-## Repository Structure  
+### Repository Structure  
 
-### 1. `/sql`
+### 1. `/SQL`
 
 Contains all **database-related resources** used for analytical exploration and integration.
 
