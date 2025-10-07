@@ -27,7 +27,7 @@ This project aims to **predict hospital readmission risk** by building an **end-
 The final product supports **clinical decision-making**, helping hospitals **reduce readmissions** and **optimize resource allocation**.
 
 
-### ⚙️ Project Overview  
+### Project Overview  
 **Hospital readmissions** are among the most relevant operational and clinical issues in healthcare.  
 They often stem from preventable causes such as premature discharges, inadequate post-discharge follow-up, or unaddressed comorbidities.  
 By leveraging data analytics, hospitals can identify **which patients are most at risk of being readmitted** and implement targeted interventions, such as home monitoring programs or optimized discharge planning.
@@ -42,7 +42,7 @@ This project proposes a complete **end-to-end analytical solution** designed to 
 The workflow integrates all stages of the data lifecycle with the ultimate goal of **supporting clinical decision-making and resource optimization**.
 
 
-**📊 Our analytical workflow:**
+**Our analytical workflow:**
 
 1. **SQL – Data Extraction and Integration**
 
@@ -72,7 +72,7 @@ Main SQL tasks include:
    - Visual outputs include:
      ........
 
-### 🧩 Technologies Used  
+### Technologies Used  
 
 | Layer | Tools / Libraries |
 |-------|-------------------|
@@ -84,7 +84,7 @@ Main SQL tasks include:
 | Version Control | Git & GitHub |
 
 
-### 🧠 Repository Structure  
+### Repository Structure  
 
 ### [1_SQL/](./1_SQL)
 
