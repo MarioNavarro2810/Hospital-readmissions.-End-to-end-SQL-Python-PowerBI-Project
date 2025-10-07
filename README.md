@@ -50,13 +50,8 @@ All data operations start within the hospital database (`dm_cardiologia`).
 Using advanced **SQL analytical queries**, the dataset is explored and key performance indicators are computed to understand patient behavior and hospitalization dynamics.
 
 Main SQL tasks include:
-- **Descriptive metrics** such as:
-  - Total number of patients and admissions.  
-  - Gender distribution and average patient age.  
-  
-- **Readmission analytics** such as: 
-  - Average admissions and unique patients per month (using subqueries).  
-  - Percentage of patients with more than one admission.  
+- **Descriptive metrics** such as *total number of patients and admissions*
+- **Readmission analytics** such as *average admissions and unique patients per month*
 
 
 2. **Python – Preprocessing and Risk Modeling**  
