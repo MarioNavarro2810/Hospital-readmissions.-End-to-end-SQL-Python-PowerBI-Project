@@ -28,12 +28,23 @@ The final product supports **clinical decision-making**, helping hospitals **red
 
 
 ### Project Overview  
-Hospital readmissions are a critical indicator of care quality and financial efficiency.  
-By analyzing patient data, we can detect **risk patterns** and identify which patients are **most likely to be readmitted** after discharge.
+**Hospital readmissions** are among the most relevant operational and clinical issues in healthcare.  
+They often stem from preventable causes such as premature discharges, inadequate post-discharge follow-up, or unaddressed comorbidities.  
+By leveraging data analytics, hospitals can identify **which patients are most at risk of being readmitted** and implement targeted interventions, such as home monitoring programs or optimized discharge planning.
 
-This project integrates all stages of a real-world data analytics workflow:
+From a management perspective, reducing avoidable readmissions translates into:
+- Lower hospitalization costs and optimized bed occupancy.  
+- Improved patient outcomes and satisfaction.  
+- Data-backed resource allocation and strategic planning.
 
-1. **SQL – Data Extraction and Integration**  
+This project proposes a complete **end-to-end analytical solution** designed to understand, predict, and mitigate hospital readmissions through the use of data analytics, statistical modeling, and business intelligence.
+
+The workflow integrates all stages of the data lifecycle with the ultimate goal of **supporting clinical decision-making and resource optimization**.
+
+
+**Our analytical workflow:**
+
+1. **SQL – Data Extraction and Integration**
 
 All data operations start within the hospital database (`dm_cardiologia`).  
 Using advanced **SQL analytical queries**, the dataset is explored and key performance indicators are computed to understand patient behavior and hospitalization dynamics.
