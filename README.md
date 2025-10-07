@@ -122,7 +122,7 @@ Contains all **Jupyter notebooks** used throughout the analytical and modeling w
   - Calculates the readmission **risk score** for each patient  
   - Outputs the final dataset (`risk_scored_patients.csv`)
 
-#### [Python_Documentation.pdf](./2_Python/Python_Documentation.pdf)
+#### [Python_Explanation.pdf](./2_Python/Python_Explanation.pdf)
 Comprehensive **PDF documentation** covering the full Python stage of the project, including:
   - Detailed explanations of each notebook and its purpose  
   - Execution workflow and data flow across the pipeline  
