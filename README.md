@@ -88,7 +88,7 @@ Contains all **database-related resources** used for analytical exploration and 
 - [**Executive Summary.pdf**](./1_SQL/Executive%20Summary.pdf) → Short **executive report** summarizing SQL insights and conclusions
 
 
-### 2_Python/(./2_Python)
+### [2_Python/](./2_Python)
 
 Contains all **Python notebooks and scripts** used for data processing, statistical testing, risk modeling, and final production deployment.  
 This layer connects the **SQL analytical base** with the **Power BI visualization layer**, acting as the core of the analytical pipeline.
