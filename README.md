@@ -1,5 +1,5 @@
 ## 🏥 Hospital-readmissions
-## End-to-end SQL+Python+PowerBI Project
+## Complete SQL+Python+PowerBI Project
 
 ## Table of Contents
 1. [Objective](#objective)
