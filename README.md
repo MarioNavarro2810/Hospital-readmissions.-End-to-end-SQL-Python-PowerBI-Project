@@ -56,10 +56,16 @@ Main SQL tasks include:
    - Development of a **custom scoring function (`calcular_scoring`)** assigning weighted points to each variable based on its relationship with readmission risk.  
   
 3. **Power BI – Visualization and Insights**
-   - Processed data from Python is stored in SQL tables.
-   - Power BI connects directly to the SQL database to build **interactive dashboards**.  
-   - Visual outputs include:
-     ........
+
+   - The final dataset from SQL was **imported** into Power BI for data visualization and reporting.
+
+   - **Basic transformations** were applied in Power Query (mainly regional and formatting adjustments).
+
+   - **Interactive dashboards** were designed to display key insights on admissions, readmissions, and risk segmentation.
+
+   - **Visual interactions** were refined for a clear analytical flow
+  
+   - **Final publication** to online PowerBI Service
 
 ### Technologies Used  
 
