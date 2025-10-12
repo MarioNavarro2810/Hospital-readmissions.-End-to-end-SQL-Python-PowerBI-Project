@@ -146,7 +146,7 @@ Includes all final **Power BI report files**:
 - [**cardiology_dashboard.pbix**](./3_PowerBI/reports/Cardiology_Dashboard.pbix) → Interactive Power BI dashboard with admissions and readmission analytics.  
 - [**cardiology_dashboard.pdf**](./3_PowerBI/reports/Cardiology_Dashboard.pdf) → Exported version of the Power BI report for static sharing or documentation purposes.  
 
-#### [Full_Explanation.pdf](./3_PowerBI/Full_Explanation.pdf)
+#### [Full_Explanation.pdf](./3_PowerBI/Full_explanation.pdf)
 Contains the **step-by-step documentation** of the Power BI development process, covering:  
 - Data connection from SQL Server  
 - Power Query transformations  
