@@ -1,6 +1,8 @@
 ## 🏥 Hospital-readmissions
 ## Complete SQL+Python+PowerBI Project
 
+**Final result:** [View on the web](https://app.powerbi.com/view?r=eyJrIjoiNjkzYWFjYmMtYmRmNS00NjVhLTg3NWUtZjBkNmMyYzBiN2E0IiwidCI6IjAzYTBmYjY5LWE0ZDAtNDQyZC1hNGQ0LWNmYjVkYTgwNzUwMCJ9)
+
 ## Table of Contents
 1. [Objective](#objective)
 2. [Project Overview](#project-overview)
@@ -152,6 +154,7 @@ Contains the **step-by-step documentation** of the Power BI development process,
 - DAX measures and KPI logic  
 - Dashboard design, structure, and visuals 
 
-  
+**Final result:** [View on the web](https://app.powerbi.com/view?r=eyJrIjoiNjkzYWFjYmMtYmRmNS00NjVhLTg3NWUtZjBkNmMyYzBiN2E0IiwidCI6IjAzYTBmYjY5LWE0ZDAtNDQyZC1hNGQ0LWNmYjVkYTgwNzUwMCJ9)
+
   
 
