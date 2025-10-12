@@ -141,8 +141,8 @@ This stage transforms the processed data into dynamic and interactive reports fo
 
 #### [Reports/](./3_PowerBI/Reports)
 Includes all final **Power BI report files**:
-- [**cardiology_dashboard.pbix**](./3_PowerBI/Reports/cardiology_dashboard.pbix) → Interactive Power BI dashboard with admissions and readmission analytics.  
-- [**cardiology_dashboard.pdf**](./3_PowerBI/Reports/cardiology_dashboard.pdf) → Exported version of the Power BI report for static sharing or documentation purposes.  
+- [**cardiology_dashboard.pbix**](./3_PowerBI/reports/Cardiology_dashboard.pbix) → Interactive Power BI dashboard with admissions and readmission analytics.  
+- [**cardiology_dashboard.pdf**](./3_PowerBI/reports/Cardiology_dashboard.pdf) → Exported version of the Power BI report for static sharing or documentation purposes.  
 
 #### [Full_Explanation.pdf](./3_PowerBI/Full_Explanation.pdf)
 Contains the **step-by-step documentation** of the Power BI development process, covering:  
