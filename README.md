@@ -11,15 +11,9 @@
      - [01_Data](#01_data)
      - [02_Notebooks](#02_notebooks)
      - [Python_Documentation.pdf](#pythondocumentationpdf)
-1. [Objective](#objective)
-2. [Project Overview](#project-overview)
-3. [Technologies Used](#technologies-used)
-4. [Repository Structure](#repository-structure)
-   - [1_SQL](#1_sql)
-   - [2_Python](#2_python)
-     - [01_Data](#01_data)
-     - [02_Notebooks](#02_notebooks)
-     - [Python_Documentation.pdf](#pythondocumentationpdf)
+   - [3_PowerBI](#3_powerbi)
+     - [Reports](#reports)
+     - [Full_Explanation.pdf](#fullexplanationpdf)
 
 
 ### Objective
@@ -131,6 +125,27 @@ Contains all **Jupyter notebooks** used throughout the analytical and modeling w
 #### [Python_Explanation.pdf](./2_Python/Python_Explanation.pdf)
 Comprehensive **PDF documentation** covering the full Python stage of the project, including:
   - Detailed explanations of each notebook and its purpose  
-  - Execution workflow and data flow across the pipeline  
+  - Execution workflow and data flow across the pipeline
+---
+
+### [3_PowerBI/](./3_PowerBI)
+
+Contains all **visualization assets** and the **final analytical dashboards** developed in Power BI.  
+This stage transforms the processed data into dynamic and interactive reports for strategic insights.
+
+#### [Reports/](./3_PowerBI/Reports)
+Includes all final **Power BI report files**:
+- [**dashboard.pbix**](./3_PowerBI/Reports/dashboard.pbix) → Interactive Power BI dashboard with admissions and readmission analytics.  
+- [**dashboard.pdf**](./3_PowerBI/Reports/dashboard.pdf) → Exported version of the Power BI report for static sharing or documentation purposes.  
+
+#### [Full_Explanation.pdf](./3_PowerBI/Full_Explanation.pdf)
+Contains the **step-by-step documentation** of the Power BI development process, covering:  
+- Data connection from SQL Server  
+- Power Query transformations  
+- Data modeling and relationships  
+- DAX measures and KPI logic  
+- Dashboard design, structure, and visuals 
+
+  
   
 
